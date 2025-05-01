@@ -16,7 +16,7 @@ app.use(express.json())
 
 // Configuração do CORS
 const corsOptions = {
-  origin: 'http://localhost:8080', // URL do seu frontend Quasar
+  origin: 'https://denimalves.github.io/APPAgendamentos-Denner/', // URL do seu frontend Quasar
   methods: ['GET', 'POST', 'PUT', 'DELETE'],
   allowedHeaders: ['Content-Type', 'Authorization'],
 }
