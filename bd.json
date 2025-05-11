@@ -1,0 +1,34 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Talita Andre Constantino Alves",
+      "cpf": "11111111111"
+    },
+    {
+      "id": "2",
+      "nome": "denner cunha alves",
+      "cpf": "12345678910"
+    }
+  ],
+  "agendamentos": [
+    {
+      "id": "1",
+      "data": "31/03/2025",
+      "horaInicio": "08:00",
+      "horaFim": "09:00"
+    },
+    {
+      "id": "2",
+      "data": "28/03/2025",
+      "horaInicio": "08:00",
+      "horaFim": "09:30"
+    },
+    {
+      "id": "3",
+      "data": "28/03/2025",
+      "horaInicio": "10:00",
+      "horaFim": "11:30"
+    }
+  ]
+}
