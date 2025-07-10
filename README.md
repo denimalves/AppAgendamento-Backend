@@ -5,3 +5,5 @@ Banco de Dados: SQLite;
 Tecnologia Backend: Node.js com Express;
 Integração: API REST para comunicação com o frontend;
 OBS: Pronto para Publicação.
+Publicado em: https://appagendamento-backend.onrender.com
+agendamentos: https://appagendamento-backend.onrender.com/agendamentos
