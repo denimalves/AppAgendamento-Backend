@@ -1,6 +1,6 @@
 Agenda Backend (Express + SQLite);
 Descrição: Backend para a aplicação Agenda Online;
-Funcionalidade: Gerenciamento de agendamentos via API REST;
+Funcionalidade: Gerenciamento de agendamentos e tarefas via API REST;
 Banco de Dados: SQLite;
 Tecnologia Backend: Node.js com Express;
 Integração: API REST para comunicação com o frontend;
